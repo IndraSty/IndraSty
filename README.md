@@ -4,7 +4,7 @@
 
 Hello there 👋,
 
-I am a software engineer dedicated on bringing value to communities around me. Check out my projects down below, and kindly leave a star (or "like") if you found anything I've made useful. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️
+I'm Indraa, a passionate and self-taught software engineer with a deep interest in technology and programming. Although I am just starting my professional journey, my enthusiasm for learning and building has driven me to continuously improve my skills and work on various projects. Check out my projects down below, and kindly leave a star (or "like") if you found anything I've made useful. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️
 
 ---
 
