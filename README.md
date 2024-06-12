@@ -24,4 +24,4 @@ Here's a list of my tech stack and skills:
 Check out some of the things I'm building!
 
 - [GreenBasket](https://greenbasket-docs.vercel.app/)
-- [Photopie.](https://photopie.vercel.app/)(sandbox ver)
+- [Photopie.](https://photopie.vercel.app/) (sandbox ver)
