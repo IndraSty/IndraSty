@@ -24,5 +24,6 @@ Here's a list of my tech stack and skills:
 Check out some of the things I'm building!
 
 - [GreenBasket](https://greenbasket-docs.vercel.app/)
+- [Traveloka Scraper](https://traveloka-scraper-docs.vercel.app/)
 - [Photopie.](https://photopie.vercel.app/) (sandbox ver)
 - [GoodPena](https://goodpena-lp.vercel.app/) (landing page)
