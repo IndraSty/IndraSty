@@ -23,6 +23,8 @@ Here's a list of my tech stack and skills:
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraSty"/>
+
 Check out some of the things I'm building!
 
 - [GreenBasket](https://greenbasket-docs.vercel.app/)
