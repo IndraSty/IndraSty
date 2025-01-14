@@ -22,8 +22,6 @@ Here's a list of my tech stack and skills:
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=IndraSty&include_all_commits=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraSty" />
 
 Check out some of the things I'm building!
