@@ -13,6 +13,8 @@ get in touch in [My Portfolio](https://indoraze-portfolio.vercel.app/)
 Here's a list of my tech stack and skills:
 
 
+![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-fastapi-green?style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-orange?style=for-the-badge)
 ![Golang](https://img.shields.io/badge/-golang-tosca?style=for-the-badge)
