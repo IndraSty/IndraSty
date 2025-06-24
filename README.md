@@ -26,7 +26,9 @@ Here's a list of my tech stack and skills:
 
 Check out some of the things I'm building!
 
+- [RiskSight AI](https://business-risk-identifier-5fl2.vercel.app/)
+- [Stock Market Prediction](https://mlportfolio-frontend.vercel.app/)
+- [Youtube Transcript QnA](https://youtube-qna-six.vercel.app/)
 - [GreenBasket](https://greenbasket-docs.vercel.app/)
 - [Traveloka Scraper](https://traveloka-scraper-docs.vercel.app/)
-- [Photopie.](https://photopie.vercel.app/) (sandbox ver)
 - [GoodPena](https://goodpena-lp.vercel.app/) (landing page)
