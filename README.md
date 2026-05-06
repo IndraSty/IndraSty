@@ -3,9 +3,9 @@
 
 ---
 
-Hi there! 👋 I'm Indra, a Software Engineer with a background in Information Systems,
-focused on backend development. I love building distributed systems, designing clean
-APIs, and working with event-driven architectures that scale.
+Hi there! 👋 I'm Indra, a Software Engineer with a background in Information Systems
+and 2 years of experience focused on backend development. I love building distributed
+systems, designing clean APIs, and working with event-driven architectures that scale.
 
 My primary stack is **Go** for performance-critical services and **Node.js** for rapid
 iteration. I care about system design, observability, and writing backend code that
@@ -56,12 +56,12 @@ actually holds up under real-world load.
 
 | Project | Description | Stack |
 |---|---|---|
-| [mini-ecommerce-golang](https://github.com/IndraSty/mini-ecommerce-golang) | Production-ready microservices e-commerce backend. Outbox Pattern, Saga Choreography, Idempotency, Distributed Tracing. | Go · Kafka · gRPC · PostgreSQL · Redis |
-| [mini-e-wallet-golang](https://github.com/IndraSty/mini-e-wallet-golang) | Digital wallet service with transaction management, balance tracking, and idempotent operations. | Go · PostgreSQL · Redis |
-| [payment-aggregator-golang](https://github.com/IndraSty/payment-aggregator-golang) | Unified payment gateway integrating multiple payment providers with async processing. | Go · Kafka · PostgreSQL |
-| [url-shortener-golang](https://github.com/IndraSty/url-shortener-golang) | High-performance URL shortener with analytics, custom slugs, and Redis caching. | Go · Redis · PostgreSQL |
-| [supply-chain-tracker](https://github.com/IndraSty/supply-chain-tracker) | Real-time supply chain visibility and shipment tracking system. | Go · PostgreSQL |
-| [smart-doc-intelligence](https://github.com/IndraSty/smart-doc-intelligence) | AI-powered document analysis and Q&A extraction service. | Go · AI |
+| [mini-ecommerce-golang](https://github.com/IndraSty/mini-ecommerce-golang) | Production-ready microservices e-commerce backend. Implements Outbox Pattern, Saga Choreography, Idempotency, and full Distributed Tracing across 5 services. | Go · Kafka · gRPC · PostgreSQL · Redis |
+| [mini-e-wallet-golang](https://github.com/IndraSty/mini-e-wallet-golang) | Production-grade digital wallet with double-entry accounting, event sourcing, and ACID-compliant P2P transfers. Includes idempotency, refund engine, and Outbox Pattern. | Go · PostgreSQL · Redis |
+| [payment-aggregator-golang](https://github.com/IndraSty/payment-aggregator-golang) | Unified payment middleware aggregating Midtrans, Xendit, and Stripe into a single API. Features smart currency routing, circuit breaker, auto-reconciliation, and replay attack prevention. | Go · PostgreSQL · Redis |
+| [url-shortener-golang](https://github.com/IndraSty/url-shortener-golang) | Enterprise URL shortener with sub-10ms redirect latency, A/B testing, geo-targeting, real-time async analytics, QR code generation, and GDPR-compliant IP masking. | Go · PostgreSQL · Redis |
+| [supply-chain-tracker](https://github.com/IndraSty/supply-chain-tracker) | Tamper-evident supply chain tracking with SHA-256 chained hashing and Merkle Tree anchoring on Polygon blockchain. Role-based access for 4 supply chain roles. | Go · PostgreSQL · Redis · Blockchain |
+| [smart-doc-intelligence](https://github.com/IndraSty/smart-doc-intelligence) | Async document intelligence API — classifies, extracts structured fields, and enables hybrid semantic + full-text search across PDFs and images powered by Gemini AI and pgvector. | Go · PostgreSQL · RabbitMQ · Redis · AI |
 
 ---
 
